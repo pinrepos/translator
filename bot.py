@@ -14,7 +14,7 @@ from telebot import types
 
 # Bot API
 bot = AsyncTeleBot(
-    "7402205329:AAFpdrJgTVzCkBo9be3M8zIetzs_Kp0jK4s", parse_mode=None)
+    "", parse_mode=None)
 
 
 # Message text processing
